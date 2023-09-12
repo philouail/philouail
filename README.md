@@ -2,6 +2,7 @@
 - 👀 I’m interested in data analysis, more specifically mass spec and scRNA sequencing data
 - 🌱 I’m currently improving my coding skills in R and Rstudio. 
 - 📫 How to reach me: philippine.louail@outlook.com
+- https://orcid.org/0009-0007-5429-6846 
 
 <!---
 philouail/philouail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
