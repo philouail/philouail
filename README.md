@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @philouail
 - 👀 I’m interested in data analysis, more specifically mass spec and scRNA sequencing data
-- 🌱 I’m currently improving my coding skills in R and Rstudio. 
+- 🌱 I’m currently developing tools for data analyst in R  
 - 📫 How to reach me: philippine.louail@outlook.com
 
 
